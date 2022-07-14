@@ -1,0 +1,7 @@
+Reverse Read:
+  class: File
+  galaxy_id: "f9cad7b01a472135f6a222e20d1512b9"
+Forward Read:
+  class: File
+  galaxy_id: "f9cad7b01a47213508c05c682dae222b"
+Number of lines: 3
